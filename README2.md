@@ -61,6 +61,8 @@
 -Push again to the forked repo, and succeed
 ![Delta compression using up to threads](https://github.com/Beckijia/saleor-platform/assets/143258717/ba801226-d6ca-49d6-b3c5-bd9f9fb4c5a0)
 
+9. Add the tag
+    ![image](https://github.com/Beckijia/saleor-platform/assets/143258717/b50c7af3-3a03-4e1c-82da-be3e9bc80951)
 
 
 
