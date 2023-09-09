@@ -62,10 +62,11 @@
 ![Delta compression using up to threads](https://github.com/Beckijia/saleor-platform/assets/143258717/ba801226-d6ca-49d6-b3c5-bd9f9fb4c5a0)
 
 9. Add the tag
-    ![image](https://github.com/Beckijia/saleor-platform/assets/143258717/b50c7af3-3a03-4e1c-82da-be3e9bc80951)
+![Screen Shot 2023-09-09 at 10 12 55 am](https://github.com/Beckijia/saleor-platform/assets/143258717/cea843df-801b-4c68-8b19-90671c9fa58b)
 
+![Screen Shot 2023-09-09 at 10 13 07 am](https://github.com/Beckijia/saleor-platform/assets/143258717/430e1827-3632-413e-913f-5627136dda48)
 
-
+![Screen Shot 2023-09-09 at 10 17 10 am](https://github.com/Beckijia/saleor-platform/assets/143258717/c699da56-58eb-4683-a8ca-053db6ca8d5e)
 
 
 
